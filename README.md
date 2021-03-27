@@ -40,5 +40,5 @@ Here are three examples of varying tip depths:
 8. Click "OK"
 
 ## References
-1 https://doi.org/10.1039/C8NR07233G  
-2 https://doi.org/10.1021/ja308456w
+1. https://doi.org/10.1039/C8NR07233G  
+2. https://doi.org/10.1021/ja308456w
