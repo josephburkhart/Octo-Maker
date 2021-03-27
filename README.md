@@ -8,7 +8,7 @@ Sketchup 2017-2021
 
 ## Background
 ### Synthesis
-Octopods and stella octangulas are concave geometric solids with octahedral (**O<sub>h</sub>**) symmetry. Both shapes are readily accessible in seed-mediated nanoparticle synthesis [[1](https://doi.org/10.1039/C8NR07233G)]. For example, octopods can be created from cubic seeds when metal atoms are deposited only along the vertices of the cube (i.e., crystal growth occurs in the [111] direction) [[2](https://doi.org/10.1021/ja308456w)]. Stella octangulas can be created from octahedral seeds when metal atoms are deposited only on the faces of the octahedron (growth occurs in the [111] direction). When the branches of octopods and stella octangulas are flattened or rounded, rather ten sharp, they are said to be "truncated."
+Octopods and stella octangulas are concave geometric solids with octahedral (**O<sub>h</sub>**) symmetry. Both shapes are readily accessible in seed-mediated nanoparticle synthesis [[1](https://doi.org/10.1039/C8NR07233G)]. For example, octopods can be created from cubic seeds when metal atoms are deposited only along the vertices of the cube (i.e., crystal growth occurs in the [111] direction) [[2](https://doi.org/10.1021/ja308456w)]. Stella octangulas can be created from octahedral seeds when metal atoms are deposited only on the faces of the octahedron (growth occurs in the [111] direction). When the branches of octopods and stella octangulas are flattened or rounded, rather than sharp, they are said to be "truncated."
 
 ### Dimensions
 Both geometries are completely constrained by 3 dimensions (see images below):
@@ -40,6 +40,5 @@ Here are three examples of varying tip depths:
 8. Click "OK"
 
 ## References
-1 https://doi.org/10.1039/C8NR07233G
-
+1 https://doi.org/10.1039/C8NR07233G \n
 2 https://doi.org/10.1021/ja308456w
