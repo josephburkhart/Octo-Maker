@@ -25,7 +25,7 @@ Often, octopodal nanoparticles are "capped" with a different metal on their bran
 
 Here are three examples of varying tip depths:
 
-<img src="https://github.com/josephburkhart/Octo-Maker/blob/a239c04149c8721ecceaaf1bbae769367496d780/images/Octopod_FD150.00%20m_BrW50.00%20m_TW10_TD0.jpg" width="300"><img src="https://github.com/josephburkhart/Octo-Maker/blob/a239c04149c8721ecceaaf1bbae769367496d780/images/Octopod_FD150.00%20m_BrW50.00%20m_TW10_TD10.jpg" width="300"><img src="https://github.com/josephburkhart/Octo-Maker/blob/a239c04149c8721ecceaaf1bbae769367496d780/images/Octopod_FD150.00%20m_BrW50.00%20m_TW10_TD20.jpg" width="300">
+<img src="https://github.com/josephburkhart/Octo-Maker/blob/a239c04149c8721ecceaaf1bbae769367496d780/images/Octopod_FD150.00%20m_BrW50.00%20m_TW10_TD0.jpg" width="400"><img src="https://github.com/josephburkhart/Octo-Maker/blob/a239c04149c8721ecceaaf1bbae769367496d780/images/Octopod_FD150.00%20m_BrW50.00%20m_TW10_TD10.jpg" width="400"><img src="https://github.com/josephburkhart/Octo-Maker/blob/a239c04149c8721ecceaaf1bbae769367496d780/images/Octopod_FD150.00%20m_BrW50.00%20m_TW10_TD20.jpg" width="400">
 
 ## Instructions
 1. Download `Octo-Maker.rb`
