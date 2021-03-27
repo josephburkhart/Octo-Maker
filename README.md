@@ -1,5 +1,5 @@
 # Octo-Maker
-Octo-Maker is a program for automatically creating (octopods)[https://doi.org/10.1021/nl200824p] and (stella octangula)[https://mathworld.wolfram.com/StellaOctangula.html] with specified dimensions in Sketchup.
+Octo-Maker is a program for automatically creating [octopods](https://doi.org/10.1021/nl200824p) and [stella octangula](https://mathworld.wolfram.com/StellaOctangula.html) with specified dimensions in Sketchup.
 
 **Compatibility:** Sketchup 2017-2021
 
