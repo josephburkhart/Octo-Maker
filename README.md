@@ -6,10 +6,6 @@ Octo-Maker is a program for automatically creating [octopods](https://doi.org/10
 **Compatibility:**
 Sketchup 2017-2021
 
-**Required Sketchup Plugins (free):**
-[STL Import and Export](https://github.com/SketchUp/sketchup-stl) (required)
-[Ruby Code Editor](https://alexschreyer.net/projects/sketchup-ruby-code-editor/) (optional, but recommended)
-
 ## Instructions
 1. Download `Octo-Maker.rb`
 2. Open Sketchup and navigate to the Extension Warehouse (Windows > Extension Warehouse). 
